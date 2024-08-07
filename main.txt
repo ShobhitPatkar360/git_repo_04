@@ -3,3 +3,5 @@ some development done from development branch
 
 Some features added from feature branch
 Some release info added
+
+Critical issue have been solved from hotfix branch
